@@ -27,13 +27,15 @@ naginata_v16.confのテキストをコピーして保存します
 Reloadで更新します。
 変更したキーを打って更新されているか確認します。
 
+hj 同時押しで 薙刀式の入力開始して
+fg 同時押しで 英数モードになります
 
 
 ## 新下駄配列 設定
 トライアイコン メニューからConfigurationを選択
 開いたkeymapper.confに
-sin_geta_Windows.confniテキストをコピーして保存します
-トライアイコンからReloadで、読み込み
+sin_geta_Windows.confのテキストをコピーして保存します
+トライアイコンからReloadで、読み込みします
 
 ## 新下駄配列の入力開始 停止
 ESC ＋ スペースキーで入力開始
